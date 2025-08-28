@@ -23,6 +23,7 @@ I am Xinshu Li, currently a Postdoctoral Research Fellow at Macquarie University
 My research focuses on the theory and applications of causal inference, aiming to build trustworthy and generalizable AI systems. My work has been published in top-tier peer-reviewed conferences such as KDD, AAAI, ACM MM, and ICDM. I also serve as a reviewer for leading venues including NeurIPS, ICLR, CVPR, ICCV, KDD, and CIKM. I'm always open to collaborations and discussions in causal inference and trustworthy AI.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper is accepted by IEEE ICDM 2025. 
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025. 
 - *2025.05*: &nbsp;🎉 I receive my Ph.D. in Computer Science from UNSW Sydney!
 - *2025.03*: &nbsp;🎉 I join Macquarie University as a Postdoctoral Research Fellow!
