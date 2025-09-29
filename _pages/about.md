@@ -99,7 +99,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 
 # 🤝 Professional Services
 - *Conference Reviewer*: NeurIPS, ICLR, CVPR, ICCV, KDD, AAAI, WWW, ICDM, CIKM, etc.
-- *Journal Reviewer*: TAI, TOSN, TALLIP, TOIS, etc.
+- *Journal Reviewer*: TKDE, TAI, TOSN, TALLIP, TOIS, etc.
 
 # 💻 Teaching
 ## Teaching Assistant
