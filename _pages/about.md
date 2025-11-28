@@ -37,7 +37,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation](https://dl.acm.org/doi/abs/10.1145/3746027.3755820)
 
 **Xinshu Li**, Ruoyu Wang, Erdun Gao, Mingming Gong, Lina Yao
 
