@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinshu Li (李心舒)"
-description              : "Focusing on causal theory and applications."
+description              : "Lecturer@RMIT University."
 repository               : "xinshu-li/xinshu-li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ author:
   name             : "Xinshu Li (李心舒)"
   avatar           : "images/photo.jpg"
   bio              : ""
-  location         : "Sydney Australia"
+  location         : "Melbourne Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xinshu.li@unsw.edu.au"
+  email            : "xinshu.li@rmit.edu.au"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
