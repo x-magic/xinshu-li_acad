@@ -18,11 +18,12 @@ redirect_from:
 <span class='anchor' id='-about-me'></span>
 
 # 🙋‍♀️ About Me
-I am Xinshu Li, currently a Postdoctoral Research Fellow at Macquarie University. I received my Ph.D. in Computer Science from the University of New South Wales, Australia, under the supervision of [Prof. Lina Yao](https://www.linayao.com/). Prior to that, I obtained my M.Eng. and B.Eng. degrees from Fudan University and Zhejiang University, respectively.
+I am Xinshu Li, currently a Lecturer (equivalent to Assistant Professor in North America) in the School of Computing Technologies at RMIT University. I completed my Ph.D. in Computer Science at the University of New South Wales under the supervision of Prof. Lina Yao, and previously received my Master’s degree from Fudan University and Bachelor’s degree from Zhejiang University. Before joining RMIT, I was a Postdoctoral Research Fellow at Macquarie University.
 
-My research focuses on the theory and applications of causal inference, aiming to build trustworthy and generalizable AI systems. My work has been published in top-tier peer-reviewed conferences such as KDD, AAAI, ACM MM, and ICDM. I also serve as a reviewer for leading venues including NeurIPS, ICLR, CVPR, ICCV, KDD, and CIKM. I'm always open to collaborations and discussions in causal inference and trustworthy AI.
+My research focuses on the theory and applications of causal inference, such as embodied AI, healthcare and other areas, aiming to build trustworthy and generalizable AI systems. My work has been published in top-tier peer-reviewed conferences such as KDD, AAAI, ACM MM, and ICDM. I also serve as a reviewer for leading venues including NeurIPS, ICLR, CVPR, ICCV, KDD, and CIKM. I'm always open to collaborations and discussions in causal inference and trustworthy AI.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 I join RMIT University as a Lecturer in the School of Computing Technologies!
 - *2025.08*: &nbsp;🎉 One paper is accepted by IEEE ICDM 2025. 
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025. 
 - *2025.05*: &nbsp;🎉 I receive my Ph.D. in Computer Science from UNSW Sydney!
@@ -86,7 +87,8 @@ My research focuses on the theory and applications of causal inference, aiming t
 - *2017* Member of Zhejiang University's Engineering Excellence Program.
   
 # 💼 Work Experience
-- *2025.03 - Present*, Postdoctoral Research Fellow, School of Computing, Macquarie University, Sydney.
+- *2025.12 - Present*, Lecturer, School of Computing Technologies, RMIT University, Melbourne.
+- *2025.03 - 2025.12*, Postdoctoral Research Fellow, School of Computing, Macquarie University, Sydney.
 
 # 📖 Educations
 - *2021.08 - 2025.05*, Doctor, UNSW, Sydney. 
